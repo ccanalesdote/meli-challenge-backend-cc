@@ -46,7 +46,7 @@ export const searchProducts = (req: Request, res: Response) => {
     .map(([categoryString]) => categoryString.split(','));
 
   res.json({
-    author: { name: "Nombre del autor", lastname: "Apellido del autor" },
+    author: { name: "Cristian", lastname: "Canales" },
     categories: mostRepeatedCategories[0] || filteredProducts[0]?.categories || [],
     items: filteredProducts
   });
@@ -73,7 +73,7 @@ export const getProduct = (req: Request, res: Response) => {
   };
 
   res.json({
-    author: { name: "Nombre del autor", lastname: "Apellido del autor" },
+    author: { name: "Cristian", lastname: "Canales" },
     item: productWithCategories
   });
 };
