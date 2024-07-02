@@ -1,0 +1,41 @@
+[
+  {
+    "id": "MLA123456",
+    "category_id": "1.1.1.1",
+    "title": "Smartphone Samsung Galaxy S10",
+    "price": {
+      "currency": "CLP",
+      "amount": 350000,
+      "decimals": 0
+    },
+    "picture": "https://ejemplo.com/imagen1.jpg",
+    "condition": "nuevo",
+    "free_shipping": true
+  },
+  {
+    "id": "MLA123457",
+    "category_id": "1.3.1.1",
+    "title": "Televisor LG 43 pulgadas",
+    "price": {
+      "currency": "CLP",
+      "amount": 250000,
+      "decimals": 0
+    },
+    "picture": "https://ejemplo.com/imagen2.jpg",
+    "condition": "nuevo",
+    "free_shipping": true
+  },
+  {
+    "id": "MLA123458",
+    "category_id": "1.1.1.2",
+    "title": "Smartphone Samsung Galaxy S20",
+    "price": {
+      "currency": "CLP",
+      "amount": 150000,
+      "decimals": 0
+    },
+    "picture": "https://ejemplo.com/imagen3.jpg",
+    "condition": "nuevo",
+    "free_shipping": true
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "1",
+    "name": "Electrónica, Audio y Video",
+    "subcategories": [
+      {
+        "id": "1.1",
+        "name": "Celulares",
+        "subcategories": [
+          {
+            "id": "1.1.1",
+            "name": "Samsung",
+            "subcategories": [
+              {
+                "id": "1.1.1.1",
+                "name": "Galaxy S10"
+              },
+              {
+                "id": "1.1.1.2",
+                "name": "Galaxy S20"
+              }
+            ]
+          },
+          {
+            "id": "1.1.2",
+            "name": "LG",
+            "subcategories": [
+              {
+                "id": "1.1.2.1",
+                "name": "G7"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1.2",
+        "name": "Reproductores",
+        "subcategories": [
+          {
+            "id": "1.2.1",
+            "name": "iPod",
+            "subcategories": [
+              {
+                "id": "1.2.1.1",
+                "name": "iPod Touch",
+                "subcategories": [
+                  {
+                    "id": "1.2.1.1.1",
+                    "name": "32 GB"
+                  },
+                  {
+                    "id": "1.2.1.1.2",
+                    "name": "64 GB"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1.2.2",
+            "name": "Blu-Ray",
+            "subcategories": [
+              {
+                "id": "1.2.2.1",
+                "name": "Samsung",
+                "subcategories": [
+                  {
+                    "id": "1.2.2.1.1",
+                    "name": "BD-J4500R"
+                  },
+                  {
+                    "id": "1.2.2.1.2",
+                    "name": "BD-J5700"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1.3",
+        "name": "Televisores",
+        "subcategories": [
+          {
+            "id": "1.3.1",
+            "name": "LG",
+            "subcategories": [
+              {
+                "id": "1.3.1.1",
+                "name": "43 pulgadas"
+              },
+              {
+                "id": "1.3.1.2",
+                "name": "55 pulgadas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
