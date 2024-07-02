@@ -9,8 +9,25 @@
       "decimals": 0
     },
     "picture": "https://ejemplo.com/imagen1.jpg",
-    "condition": "nuevo",
-    "free_shipping": true
+    "condition": "Nuevo",
+    "free_shipping": true,
+    "sold_quantity": 0,
+    "description": "El Samsung Galaxy S10 es un smartphone Android con pantalla AMOLED QHD+ de 6.1 pulgadas. Por dentro, cuenta con un procesador Exynos 9820 o Snapdragon 855, con 8GB de RAM y 128GB o 512GB de almacenamiento. La cámara principal del Galaxy S10 es triple, con lentes de 12 MP, 12 MP y 16 MP, mientras que la cámara frontal es dual, de 10 MP y 8 MP. El Galaxy S10 completa sus características con lector de huellas embebido en pantalla, parlantes stereo, sonido Dolby, batería de 3400 mAh con carga rápida e inalámbrica, puerto USB-C, y corre One UI basado en Android 9.0 Pie."
+  },
+  {
+    "id": "MLA123456",
+    "category_id": "1.1.1.1",
+    "title": "Smartphone Samsung Galaxy S10 Lite",
+    "price": {
+      "currency": "CLP",
+      "amount": 200000,
+      "decimals": 0
+    },
+    "picture": "https://ejemplo.com/imagen1.jpg",
+    "condition": "Usado",
+    "free_shipping": true,
+    "sold_quantity": 0,
+    "description": "Excelente estado. El Samsung Galaxy S10 es un smartphone Android con pantalla AMOLED QHD+ de 6.1 pulgadas. Por dentro, cuenta con un procesador Exynos 9820 o Snapdragon 855, con 8GB de RAM y 128GB o 512GB de almacenamiento. La cámara principal del Galaxy S10 es triple, con lentes de 12 MP, 12 MP y 16 MP, mientras que la cámara frontal es dual, de 10 MP y 8 MP. El Galaxy S10 completa sus características con lector de huellas embebido en pantalla, parlantes stereo, sonido Dolby, batería de 3400 mAh con carga rápida e inalámbrica, puerto USB-C, y corre One UI basado en Android 9.0 Pie."
   },
   {
     "id": "MLA123457",
@@ -22,8 +39,10 @@
       "decimals": 0
     },
     "picture": "https://ejemplo.com/imagen2.jpg",
-    "condition": "nuevo",
-    "free_shipping": true
+    "condition": "Nuevo",
+    "free_shipping": true,
+    "sold_quantity": 0,
+    "description": "El LG 43LK5700 es un televisor LED Full HD con pantalla de 43 pulgadas. Cuenta con tecnología de mejora de color, sonido envolvente Virtual Surround Plus, sistema operativo webOS 4.0, y conectividad WiFi y Bluetooth. Además, tiene dos puertos HDMI y un puerto USB."
   },
   {
     "id": "MLA123458",
@@ -35,7 +54,9 @@
       "decimals": 0
     },
     "picture": "https://ejemplo.com/imagen3.jpg",
-    "condition": "nuevo",
-    "free_shipping": true
+    "condition": "Nuevo",
+    "free_shipping": true,
+    "sold_quantity": 0,
+    "description": "El Samsung Galaxy S20 es un smartphone Android con pantalla AMOLED QHD+ de 6.2 pulgadas. Por dentro, cuenta con un procesador Exynos 990 o Snapdragon 865, con 8GB de RAM y 128GB de almacenamiento. La cámara principal del Galaxy S20 es triple, con lentes de 12 MP, 64 MP y 12 MP, mientras que la cámara frontal es de 10 MP. El Galaxy S20 completa sus características con lector de huellas embebido en pantalla, parlantes stereo, sonido Dolby, batería de 4000 mAh con carga rápida e inalámbrica, puerto USB-C, y corre One UI basado en Android 10."
   }
 ]
