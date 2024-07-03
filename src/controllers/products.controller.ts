@@ -27,6 +27,7 @@ export const searchProducts = (req: Request, res: Response) => {
       picture: product.picture,
       condition: product.condition,
       free_shipping: product.free_shipping,
+      location: product.location,
       categories: findCategoryPath(product.category_id, categories as Category[])
     }));
 
