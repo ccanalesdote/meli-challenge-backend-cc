@@ -11,12 +11,12 @@
     "picture": "https://www.lifewire.com/thmb/3K9euH3wgCrIbYuna5tl76hyYp0=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc()/_hero_gs10-photo1-729a71c4160641e2b43427d8cb4ed786.jpg",
     "condition": "Nuevo",
     "free_shipping": true,
-    "sold_quantity": 0,
+    "sold_quantity": 2,
     "location": "Capital Federal",
     "description": "El Samsung Galaxy S10 es un smartphone Android con pantalla AMOLED QHD+ de 6.1 pulgadas. Por dentro, cuenta con un procesador Exynos 9820 o Snapdragon 855, con 8GB de RAM y 128GB o 512GB de almacenamiento. La cámara principal del Galaxy S10 es triple, con lentes de 12 MP, 12 MP y 16 MP, mientras que la cámara frontal es dual, de 10 MP y 8 MP. El Galaxy S10 completa sus características con lector de huellas embebido en pantalla, parlantes stereo, sonido Dolby, batería de 3400 mAh con carga rápida e inalámbrica, puerto USB-C, y corre One UI basado en Android 9.0 Pie."
   },
   {
-    "id": "MLA123456",
+    "id": "MLA123457",
     "category_id": "1.1.1.1",
     "title": "Smartphone Samsung Galaxy S10 Lite",
     "price": {
@@ -43,12 +43,12 @@
     "picture": "https://i.blogs.es/defb0d/img_7557/1366_2000.jpg",
     "condition": "Nuevo",
     "free_shipping": true,
-    "sold_quantity": 0,
+    "sold_quantity": 10,
     "location": "Capital Federal",
     "description": "El Samsung Galaxy S20 es un smartphone Android con pantalla AMOLED QHD+ de 6.2 pulgadas. Por dentro, cuenta con un procesador Exynos 990 o Snapdragon 865, con 8GB de RAM y 128GB de almacenamiento. La cámara principal del Galaxy S20 es triple, con lentes de 12 MP, 64 MP y 12 MP, mientras que la cámara frontal es de 10 MP. El Galaxy S20 completa sus características con lector de huellas embebido en pantalla, parlantes stereo, sonido Dolby, batería de 4000 mAh con carga rápida e inalámbrica, puerto USB-C, y corre One UI basado en Android 10."
   },
   {
-    "id": "MLA123457",
+    "id": "MLA123459",
     "category_id": "1.3.1.1",
     "title": "Televisor LG 43 pulgadas",
     "price": {
@@ -59,12 +59,12 @@
     "picture": "https://www.lg.com/ar/images/televisores/md05829413/gallery/43LJ5500_Destop01_09082017.jpg",
     "condition": "Nuevo",
     "free_shipping": true,
-    "sold_quantity": 0,
+    "sold_quantity": 10,
     "location": "Mendoza",
     "description": "El LG 43LK5700 es un televisor LED Full HD con pantalla de 43 pulgadas. Cuenta con tecnología de mejora de color, sonido envolvente Virtual Surround Plus, sistema operativo webOS 4.0, y conectividad WiFi y Bluetooth. Además, tiene dos puertos HDMI y un puerto USB."
   },
   {
-    "id": "MLA123459",
+    "id": "MLA123460",
     "category_id": "1.3.1.1",
     "title": "Televisor LG 43 pulgadas 4K",
     "price": {
@@ -75,7 +75,7 @@
     "picture": "https://www.lg.com/ar/images/televisores/43lf5410/gallery/large03.jpg",
     "condition": "Nuevo",
     "free_shipping": false,
-    "sold_quantity": 0,
+    "sold_quantity": 6,
     "location": "Cordoba",
     "description": "El LG 43LK5700 es un televisor LED 4K con pantalla de 43 pulgadas. Cuenta con tecnología de mejora de color, sonido envolvente Virtual Surround Plus, sistema operativo webOS 4.0, y conectividad WiFi y Bluetooth. Además, tiene dos puertos HDMI y un puerto USB."
   },
@@ -123,7 +123,7 @@
     "picture": "https://i.ebayimg.com/thumbs/images/g/1sQAAOSwl39mWmk~/s-l1200.jpg",
     "condition": "Usado",
     "free_shipping": true,
-    "sold_quantity": 12,
+    "sold_quantity": 0,
     "location": "Capital Federal",
     "description": "Apple iPod de séptima generación con 32GB de almacenamiento en color verde. En buen estado, con leves marcas de uso. Batería de larga duración."
   },
@@ -139,7 +139,7 @@
     "picture": "https://i5.walmartimages.com/asr/bed07ee1-54f6-48af-8414-165cd666e514_1.40e6414742a2bdd62f7c172cc064a950.jpeg",
     "condition": "Usado",
     "free_shipping": false,
-    "sold_quantity": 30,
+    "sold_quantity": 2,
     "location": "Tigre",
     "description": "Apple iPod de cuarta generación con 32GB de almacenamiento en color plata. Compacto y ligero, ideal para hacer deporte. Incluye clip para sujetar a la ropa."
   }
