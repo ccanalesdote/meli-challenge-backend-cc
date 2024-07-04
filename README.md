@@ -9,8 +9,6 @@ El proyecto consta de dos repositorios:
 
 ## Tecnologías Utilizadas
 
-Algunas de las tecnologías solo están implementadas de forma minima a modo de muestra
-
 - **Node.js:** Entorno de ejecución de JavaScript del lado del servidor.
 - **Express:** Framework web minimalista y flexible para Node.js.
 - **TypeScript:** Superset de JavaScript que añade tipado estático para mejorar la calidad del código.
@@ -72,7 +70,7 @@ q: **(obligatorio)** Cadena de búsqueda a buscar en los títulos de los product
       "free_shipping": true,
       "location": "Capital Federal"
     },
-    // ... más productos ...
+    /* ... más productos ... */
   ]
 }
 ```
