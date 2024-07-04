@@ -70,7 +70,6 @@ q: **(obligatorio)** Cadena de búsqueda a buscar en los títulos de los product
       "free_shipping": true,
       "location": "Capital Federal"
     },
-    /* ... más productos ... */
   ]
 }
 ```
